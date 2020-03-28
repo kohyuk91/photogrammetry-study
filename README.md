@@ -14,7 +14,7 @@
 - Focal Length: 35mm
 - Film Back: 36 X 20.25mm
 - Distortion
-    - Model: LD Classic
+    - Lens Distortion Model: 3DE Classic LD Model
     - Distortion: 0.1000
 
 ## Line-up Geo
